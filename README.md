@@ -1,9 +1,11 @@
 # Online-Examination-System
-This project is developed using java server pages (jsp) and MySQL is used for backend.
-IDE is the Netbeans.
-sql script is included in "db script" folder.
+This project is developed using java and java server pages (jsp) and MySQL is used for backend.
+use NetBeans IDE
 Please create:
+database script in 'dbScript' folder 
 exam_system as a database schema.
+
+all java code for control is in 'src/java' folder
 
 database settings are in DatabaseClass.java.
 you can modify it or default settings are:
